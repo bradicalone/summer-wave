@@ -37,4 +37,5 @@ npm install
 npm run client
 ```
 
-open up 
+Open up on generic port 8080
+http://localhost:8080/
