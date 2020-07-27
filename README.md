@@ -6,7 +6,7 @@ I was asked about a wave in a sine wave formation and thought it would be fun an
 
 End result is a simple wave with some summer colors that can be changed along with sizing porportions documented in Canvas.js file.
 
-![alt text](https://github.com/bradicalone/wave.gif)
+![alt text](/wave.gif)
 
 The smoothness to the waves is perceived by plotting x-axis and y-axis with Javascripts core math method Math.sin(), mixed with the a delay 
 of each draw of the canvas. 
